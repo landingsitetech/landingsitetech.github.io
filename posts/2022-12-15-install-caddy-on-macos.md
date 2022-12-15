@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Install Caddy on macOS"
+---
+
 # Install Caddy on macOS
 
 Oper Terminal
