@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Install Caddy on macOS"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
